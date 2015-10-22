@@ -2,6 +2,7 @@
 # Inefficient code by SnoozeSecurity (youtube.com/channel/UCa5QaVWjwFkUNoLtMka1d3w)
 # I am not a professional programmer, rather someone trying to learn python :)
 
+
 lyrics = 'bottles of beer on the wall! '
 lyrics2 = 'bottles of beer! Take one down, pass it around, '
 lyrics3 = 'bottle of beer on the wall! '
