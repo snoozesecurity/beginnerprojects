@@ -24,6 +24,7 @@ print 'Welcome to my boring Mad Libs clone!'
 time.sleep(.5)
 
 # Gets story variable input from user
+
 gender = raw_input('man or woman? ')
 if gender.lower() == 'man':
 	heOrShe = 'He'
@@ -46,6 +47,8 @@ for i in name:
 counter = counter - 1
 name = name.lower()
 capName = name[:1].upper() + name[-counter:]	
+
+# Prints the story
 
 print story1, gender, story2, capName.format() + period
 time.sleep(1)
